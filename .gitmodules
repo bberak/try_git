@@ -1,0 +1,3 @@
+[submodule "SelfServe"]
+	path = SelfServe
+	url = git://github.com/bberak/SelfServe.git
